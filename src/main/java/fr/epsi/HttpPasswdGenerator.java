@@ -1,4 +1,4 @@
-package c;
+package fr.epsi;
 
 import org.springframework.security.crypto.bcrypt.BCrypt;
 
